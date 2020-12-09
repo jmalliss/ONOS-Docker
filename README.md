@@ -1,5 +1,5 @@
 # ONOS-Docker
-The ONOS controller pre-installed to be used as an image file for Docker.
+The ONOS controller is pre-installed to be used as an image file for Docker.
 
 OS: Ubuntu:latest Docker image
 
